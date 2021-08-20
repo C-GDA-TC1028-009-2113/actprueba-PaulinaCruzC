@@ -6,7 +6,7 @@
 `nota:` para todo las pruebas puedes usar esta configuración:
 ### Setup command (optional)
 ```
-sudo -H pip3 install pytest
+sudo -Hpip3 install pytest
 ```
 
 - ## 00 Hello World
